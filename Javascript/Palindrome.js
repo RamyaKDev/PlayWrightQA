@@ -1,0 +1,15 @@
+let n=12121
+let o=n
+let revn=0
+while(n>=1){
+    let r=n%10
+     revn=(revn*10)+r
+     n=Math.floor(n/10)
+    
+
+}
+console.log("reversed no", revn)
+if(revn==o)
+    console.log("palindrome no")
+else
+    console.log("not a palindrome ")
