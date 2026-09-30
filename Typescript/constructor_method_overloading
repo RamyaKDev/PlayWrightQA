@@ -1,0 +1,28 @@
+class Car{
+    year:number
+    model:string
+    name:string
+
+    constructor(year:number)
+    constructor(year:number,model:string,name:string)
+
+    constructor(year:number,model?:string,name?:string){
+        this.year=year
+        this.model=model || "honda"
+        this.name=name
+    }
+
+    display():void{
+        if(this.name)
+            console.log(`${this.year} and ${this.model} and ${this.name}`)
+        
+        else
+             console.log(`${this.year} and ${this.model}`)
+    }
+}
+
+let car1=new Car(2012)
+let car2=new Car(2013,"HondaCity","Mazda")
+
+car1.display()
+car2.display()
