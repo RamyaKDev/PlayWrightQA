@@ -9,5 +9,19 @@ await expect(dataform).toBeVisible()
 await expect(dataform).toHaveText("Data Entry Form")
 
 
-
+const a=[1,4,2,3]
+let flag=false
+for(let i=0;i<a.length;i++){
+let s=41;
+if(a[i]===s){
+ flag=true
+ break   
+}
+else
+    flag=false
+}
+if(flag)
+    console.log("element found")
+else
+    console.log("element not found")
 })
