@@ -1,0 +1,6 @@
+Cedric Kelly,Senior JavaScript Developer,Edinburgh,22,2012-03-29,$433,060
+Gavin Joyce,Developer,Edinburgh,42,2010-12-22,$92,575
+Jennifer Acosta,Junior JavaScript Developer,Edinburgh,43,2013-02-01,$75,650
+Prescott Bartlett,Technical Author,London,27,2011-05-07,$145,000
+Thor Walton,Developer,New York,61,2013-08-11,$98,540
+Zorita Serrano,Software Engineer,San Francisco,56,2012-06-01,$115,000
