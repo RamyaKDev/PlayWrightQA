@@ -1,0 +1,34 @@
+[
+  {
+    "principal": 20000,
+    "interest": 10,
+    "period": 2,
+    "periodType": "Years",
+    "frequency": "yearly",
+    "maturityValue": "₹ 24,200"
+  },
+  {
+    "principal": 40000,
+    "interest": 15,
+    "period": 5,
+    "periodType": "Years",
+    "frequency": "yearly",
+    "maturityValue": "₹ 80,454"
+  },
+  {
+    "principal": 50000,
+    "interest": 10,
+    "period": 3,
+    "periodType": "Months",
+    "frequency": "monthly",
+    "maturityValue": "₹ 51,260"
+  },
+  {
+    "principal": 75000,
+    "interest": 12,
+    "period": 2,
+    "periodType": "Months",
+    "frequency": "monthly",
+    "maturityValue": "₹ 76,508"
+  }
+]

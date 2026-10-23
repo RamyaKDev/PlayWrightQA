@@ -1,0 +1,5 @@
+principal,interest,period,periodType,frequency,maturityValue
+20000,10,2,Years,yearly,"₹ 24,200"
+40000,15,5,Years,yearly,"₹ 80,454"
+50000,10,3,Months,monthly,"₹ 51,260"
+75000,12,2,Months,monthly,"₹ 76,508"
